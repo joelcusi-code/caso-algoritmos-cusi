@@ -1,0 +1,22 @@
+
+Nro,Placa,Marca,Modelo,Tipo,Propietario,Estado
+1,ABC-101,Toyota,2018,Minibus,Propietario 01,Aprobado
+2,ABC-102,Nissan,2019,Minibus,Propietario 02,Pendiente
+3,ABC-103,Hyundai,2020,Bus,Propietario 03,Aprobado
+4,ABC-104,Toyota,2017,Minibus,Propietario 04,Observado
+5,ABC-105,Ford,2021,Bus,Propietario 05,Aprobado
+6,ABC-106,Nissan,2018,Minibus,Propietario 06,Pendiente
+7,ABC-107,Isuzu,2019,Bus,Propietario 07,Aprobado
+8,ABC-108,Toyota,2022,Minibus,Propietario 08,Aprobado
+9,ABC-109,Hyundai,2016,Bus,Propietario 09,Observado
+10,ABC-110,Nissan,2020,Minibus,Propietario 10,Aprobado
+11,ABC-111,Toyota,2021,Minibus,Propietario 11,Pendiente
+12,ABC-112,Ford,2018,Bus,Propietario 12,Aprobado
+13,ABC-113,Isuzu,2022,Bus,Propietario 13,Aprobado
+14,ABC-114,Hyundai,2019,Minibus,Propietario 14,Observado
+15,ABC-115,Toyota,2017,Minibus,Propietario 15,Aprobado
+16,ABC-116,Nissan,2023,Minibus,Propietario 16,Pendiente
+17,ABC-117,Ford,2020,Bus,Propietario 17,Aprobado
+18,ABC-118,Isuzu,2018,Bus,Propietario 18,Aprobado
+19,ABC-119,Hyundai,2021,Minibus,Propietario 19,Observado
+20,ABC-120,Toyota,2024,Minibus,Propietario 20,Aprobado
